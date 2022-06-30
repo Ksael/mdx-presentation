@@ -1,0 +1,13 @@
+{
+  "name": "mdx-pres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "devDependencies": {
+    "code-surfer": "^3.1.1",
+    "mdx-deck": "^4.1.1"
+  }
+}
